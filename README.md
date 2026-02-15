@@ -1,1 +1,1 @@
-# 30dd6
+# Word & Character Counter - 30 Simple Useful Wep App in 30 Days - Day 6
